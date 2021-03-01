@@ -14,5 +14,6 @@
 8. *Дополнение 3:* Получать данные и котировки с Санкт-Петербуржской биржи.
 
 ## Ресурсы:
-https://iss.moex.com/iss/reference/ - данные по ценным бумагам и валюте
-http://www.cbr.ru/scripts/XML_daily.asp - курсы валют
+https://iss.moex.com/iss/reference/ - данные по ценным бумагам и валюте  
+http://www.cbr.ru/scripts/XML_daily.asp - курсы валют  
+
